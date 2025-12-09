@@ -1,4 +1,4 @@
-### Automatic Fraud Detection System
+# Automatic Fraud Detection System
 ## The Finance and fraud-analytics team face difficulty identifying abnormal transaction patterns across a large volume of daily ecommerce/Banking transactions. 
 Traditional manual checks were slow and missed irregular spending spikes, leading to delayed fraud detection and unnecessary chargebacks.
 
